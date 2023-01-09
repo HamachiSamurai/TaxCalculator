@@ -1,0 +1,11 @@
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\bin\Debug\calculatorForTax.exe.config
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\bin\Debug\calculatorForTax.exe
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\bin\Debug\calculatorForTax.pdb
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.csproj.AssemblyReference.cache
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.csproj.SuggestedBindingRedirects.cache
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.Form1.resources
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.Properties.Resources.resources
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.csproj.GenerateResource.cache
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.csproj.CoreCompileInputs.cache
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.exe
+C:\develop\study\TaxCalculator\calculatorForTax\calculatorForTax\obj\Debug\calculatorForTax.pdb
